@@ -35,7 +35,7 @@ h2{
 h3{
 	font-family: 'Libre Baskerville', serif;
 	color: #333333;  /*Color del texto*/
-	font-size: 15px;
+	font-size: 12px;
 	text-align: center;
 }
 header{
@@ -72,27 +72,17 @@ li{
 }
 
 section{
-	width: 800px;
+	width: 1000px;
 	background: rgba(255, 255, 255, 0.5);
 	height: auto;
 	float: left;
 	margin-top: 8px;
 	border-radius: 10px;
 }
-aside{
-	width: 192px;
-	background: rgba(242, 184, 13, 0.8);    /* Amarillo Unad*/
-	height: auto;
-	float: left;
-	margin-top: 8px;
-	margin-left: 8px;
-	border-radius: 10px;
-	padding-bottom: 13px;
-}
 
 footer{
 	width: 1000px;
-	background: #FF5900;			/* Naranja Unad*/
+	background: rgba(242, 184, 13, 0.8);    /* Amarillo Unad*/
 	height: 40px;
 	float: left;
 	margin-top: 8px;
