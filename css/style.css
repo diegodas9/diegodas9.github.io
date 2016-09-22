@@ -78,6 +78,9 @@ section{
 	float: left;
 	margin-top: 8px;
 	border-radius: 10px;
+	background-image: url("../img/img1.png");
+	background-repeat: no-repeat;
+	background-position: center;
 }
 
 footer{
